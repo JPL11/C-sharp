@@ -1,0 +1,16 @@
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\obj\Debug\Scratchpaper.csproj.AssemblyReference.cache
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\obj\Debug\Scratchpaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\obj\Debug\Scratchpaper.csproj.CoreCompileInputs.cache
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\bin\Debug\Scratchpaper.exe.config
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\bin\Debug\Scratchpaper.exe
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\bin\Debug\Scratchpaper.pdb
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\obj\Debug\Scratchpaper.exe
+C:\Users\Leon\OneDrive\education\ece2310\repos\Scratchpaper\obj\Debug\Scratchpaper.pdb
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\bin\Debug\Scratchpaper.exe.config
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\bin\Debug\Scratchpaper.exe
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\bin\Debug\Scratchpaper.pdb
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\obj\Debug\Scratchpaper.csproj.AssemblyReference.cache
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\obj\Debug\Scratchpaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\obj\Debug\Scratchpaper.csproj.CoreCompileInputs.cache
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\obj\Debug\Scratchpaper.exe
+C:\Users\Leon\OneDrive\education\ece2310\exercise3\exercise3-problem1-final\exercise3-problem1-finished\obj\Debug\Scratchpaper.pdb

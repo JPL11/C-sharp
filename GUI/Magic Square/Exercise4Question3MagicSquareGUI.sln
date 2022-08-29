@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4Question3MagicSquareGUI", "Exercise4Question3MagicSquareGUI\Exercise4Question3MagicSquareGUI.csproj", "{92F8CA47-E2C5-4C12-980F-240C12490D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F8CA47-E2C5-4C12-980F-240C12490D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F8CA47-E2C5-4C12-980F-240C12490D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F8CA47-E2C5-4C12-980F-240C12490D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F8CA47-E2C5-4C12-980F-240C12490D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7503B110-C5C4-4658-AD0C-D4B98780D15C}
+	EndGlobalSection
+EndGlobal

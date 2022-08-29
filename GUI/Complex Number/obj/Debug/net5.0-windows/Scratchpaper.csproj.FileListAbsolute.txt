@@ -1,0 +1,36 @@
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\bin\Debug\net5.0-windows\Scratchpaper.exe
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\bin\Debug\net5.0-windows\Scratchpaper.deps.json
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\bin\Debug\net5.0-windows\Scratchpaper.runtimeconfig.json
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\bin\Debug\net5.0-windows\Scratchpaper.runtimeconfig.dev.json
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\bin\Debug\net5.0-windows\Scratchpaper.dll
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\bin\Debug\net5.0-windows\Scratchpaper.pdb
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.csproj.AssemblyReference.cache
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.Scratchpaper.resources
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.csproj.GenerateResource.cache
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.AssemblyInfoInputs.cache
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.AssemblyInfo.cs
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.dll
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\refint\Scratchpaper.dll
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.pdb
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\Scratchpaper.genruntimeconfig.cache
+C:\Users\Leon\Downloads\Question4ComplexGUI - Copy\Question4ComplexGUI\Question4ComplexGUI\obj\Debug\net5.0-windows\ref\Scratchpaper.dll
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\bin\Debug\net5.0-windows\Scratchpaper.exe
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\bin\Debug\net5.0-windows\Scratchpaper.deps.json
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\bin\Debug\net5.0-windows\Scratchpaper.runtimeconfig.json
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\bin\Debug\net5.0-windows\Scratchpaper.runtimeconfig.dev.json
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\bin\Debug\net5.0-windows\Scratchpaper.dll
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\bin\Debug\net5.0-windows\Scratchpaper.pdb
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.csproj.AssemblyReference.cache
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.Scratchpaper.resources
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.csproj.GenerateResource.cache
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.AssemblyInfoInputs.cache
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.AssemblyInfo.cs
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.dll
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\refint\Scratchpaper.dll
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.pdb
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\Scratchpaper.genruntimeconfig.cache
+C:\Users\Leon\Downloads\temp\ScratchpaperForms\obj\Debug\net5.0-windows\ref\Scratchpaper.dll

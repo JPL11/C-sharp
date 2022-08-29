@@ -1,0 +1,17 @@
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.csproj.AssemblyReference.cache
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.Form1.resources
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.csproj.GenerateResource.cache
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.AssemblyInfoInputs.cache
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.AssemblyInfo.cs
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\bin\Debug\net6.0-windows\EX4_Q1.exe
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\bin\Debug\net6.0-windows\EX4_Q1.deps.json
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\bin\Debug\net6.0-windows\EX4_Q1.runtimeconfig.json
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\bin\Debug\net6.0-windows\EX4_Q1.dll
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\bin\Debug\net6.0-windows\EX4_Q1.pdb
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.dll
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\refint\EX4_Q1.dll
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.pdb
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\EX4_Q1.genruntimeconfig.cache
+C:\Users\Jacky\source\repos\EX4_Q1\EX4_Q1\obj\Debug\net6.0-windows\ref\EX4_Q1.dll

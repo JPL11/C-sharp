@@ -1,0 +1,11 @@
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\bin\Debug\Validate.exe.config
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\bin\Debug\Validate.exe
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\bin\Debug\Validate.pdb
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csproj.AssemblyReference.cache
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.Properties.Resources.resources
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.ValidateForm.resources
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csproj.GenerateResource.cache
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.exe
+C:\Users\Jacky\Downloads\Compressed\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.pdb

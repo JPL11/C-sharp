@@ -1,0 +1,11 @@
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.csproj.AssemblyReference.cache
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.Properties.Resources.resources
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.csproj.GenerateResource.cache
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.csproj.CoreCompileInputs.cache
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\bin\Debug\ScratchpaperForms.exe.config
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\bin\Debug\ScratchpaperForms.exe
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\bin\Debug\ScratchpaperForms.pdb
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.exe
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.pdb
+C:\Users\Leon\OneDrive\education\ece2310\repos\ScratchpaperForms\obj\Debug\ScratchpaperForms.UsingTabsForm.resources
