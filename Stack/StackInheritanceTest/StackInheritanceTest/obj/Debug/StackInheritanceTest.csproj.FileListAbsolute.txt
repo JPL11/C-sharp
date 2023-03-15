@@ -1,0 +1,18 @@
+C:/Users/jacky/Downloads/ch21/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.AssemblyReference.cache
+C:/Users/jacky/Downloads/ch21/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.SuggestedBindingRedirects.cache
+C:/Users/jacky/Downloads/ch21/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.CoreCompileInputs.cache
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/bin/Debug/StackInheritanceTest.exe.config
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/bin/Debug/StackInheritanceTest.exe
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/bin/Debug/StackInheritanceTest.pdb
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.AssemblyReference.cache
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.SuggestedBindingRedirects.cache
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.CoreCompileInputs.cache
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.exe
+C:/Users/jacky/Downloads/ch21/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.pdb
+/Users/JPL/Downloads/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/bin/Debug/StackInheritanceTest.exe.config
+/Users/JPL/Downloads/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/bin/Debug/StackInheritanceTest.exe
+/Users/JPL/Downloads/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/bin/Debug/StackInheritanceTest.pdb
+/Users/JPL/Downloads/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.AssemblyReference.cache
+/Users/JPL/Downloads/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.csproj.CoreCompileInputs.cache
+/Users/JPL/Downloads/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.exe
+/Users/JPL/Downloads/New folder/Fig21_14/StackInheritanceTest/StackInheritanceTest/obj/Debug/StackInheritanceTest.pdb

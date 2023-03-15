@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2BA76BA1-135D-439C-BA17-CE76D0BF112D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListTest/LinkedListLibrary.cs">
+    <Files>
+      <File FileName="ListTest/ListTest.cs" Line="91" Column="24" />
+      <File FileName="ListTest/LinkedListLibrary.cs" Line="208" Column="36" />
+      <File FileName="../../../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListTest" expanded="True">
+            <Node name="ListTest" expanded="True">
+              <Node name="LinkedListLibrary.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ListTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

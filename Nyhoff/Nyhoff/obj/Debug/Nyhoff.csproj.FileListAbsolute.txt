@@ -1,0 +1,6 @@
+/Users/JPL/Projects/Nyhoff/Nyhoff/obj/Debug/Nyhoff.csproj.AssemblyReference.cache
+/Users/JPL/Projects/Nyhoff/Nyhoff/obj/Debug/Nyhoff.csproj.CoreCompileInputs.cache
+/Users/JPL/Projects/Nyhoff/Nyhoff/bin/Debug/Nyhoff.exe
+/Users/JPL/Projects/Nyhoff/Nyhoff/bin/Debug/Nyhoff.pdb
+/Users/JPL/Projects/Nyhoff/Nyhoff/obj/Debug/Nyhoff.exe
+/Users/JPL/Projects/Nyhoff/Nyhoff/obj/Debug/Nyhoff.pdb
